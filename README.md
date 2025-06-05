@@ -19,47 +19,46 @@
 
 ### 🚀 About Me
 
-I'm an experienced Kotlin Developer (3+ years) passionate about building impactful, enterprise-grade mobile apps. I've contributed to projects with **5M+ downloads** and **$10M+ in annual revenue**[cite: 2]. I enjoy mentoring and driving growth with innovative solutions[cite: 6].
+I'm an experienced Kotlin Developer (3+ years) passionate about building impactful, enterprise-grade mobile apps. I've contributed to projects with **5M+ downloads** and **$10M+ in annual revenue**. I enjoy mentoring and driving growth with innovative solutions.
 
 ---
 
-
 ### 🛠️ My Tech Stack
 
-**Core Mobile:** `Kotlin` `Android SDK` `Jetpack Compose` `Java` [cite: 28]
-**Architecture & Patterns:** `MVVM` `MVI` `Clean Architecture` [cite: 4, 28]
-**Async & Reactive:** `Coroutines` `RX` [cite: 28]
-**Cross-Platform:** `KMM (Kotlin Multiplatform Mobile)` [cite: 4, 28]
-**Backend & Networking:** `WebSockets` `Ktor` [cite: 28]
-**Tools & Platforms:** `Firebase` `GitHub Actions` `Fastlane` `ARCore` `Google Vision API` [cite: 5, 31, 13]
-**Also familiar with:** `SwiftUI` `iOS SDK` [cite: 29]
+**Core Mobile:** `Kotlin` `Android SDK` `Jetpack Compose` `Java`
+**Architecture & Patterns:** `MVVM` `MVI` `Clean Architecture`
+**Async & Reactive:** `Coroutines` `RX`
+**Cross-Platform:** `KMM (Kotlin Multiplatform Mobile)`
+**Backend & Networking:** `WebSockets` `Ktor`
+**Tools & Platforms:** `Firebase` `GitHub Actions` `Fastlane` `ARCore` `Google Vision API`
+**Also familiar with:** `SwiftUI` `iOS SDK`
 
 ---
 
 ### ✨ Highlights
 
-* Leading mobile development for **YALLA Mobile** (taxi-hailing, 10k+ DAU) at YouCLOUD. [cite: 7]
-* Developed features for apps generating **$120M+ annual revenue** (Zenni Optical) and serving **5M+ active users** (FIT GROUP). [cite: 19, 30]
-* Boosted user engagement by **20-30%** through feature enhancements and innovative integrations (e.g., Unity via WebView, AR Try-on). [cite: 20, 31, 25]
-* Significantly improved app stability (99.9% crash-free) and performance (e.g., reduced API response times by 45%). [cite: 32, 33]
-* Automated CI/CD pipelines, **halving release cycles**. [cite: 8]
-* Recognized with a **Mentorship Excellence Award** for improving team performance. [cite: 27]
-* Achieved 2nd place in a Telegram Contest with a **KMM app**. [cite: 36]
+* Leading mobile development for **YALLA Mobile** (taxi-hailing, 10k+ DAU) at YouCLOUD.
+* Developed features for apps generating **$120M+ annual revenue** (Zenni Optical) and serving **5M+ active users** (FIT GROUP).
+* Boosted user engagement by **20-30%** through feature enhancements and innovative integrations (e.g., Unity via WebView, AR Try-on).
+* Significantly improved app stability (99.9% crash-free) and performance (e.g., reduced API response times by 45%).
+* Automated CI/CD pipelines, **halving release cycles**.
+* Recognized with a **Mentorship Excellence Award** for improving team performance.
+* Achieved 2nd place in a Telegram Contest with a **KMM app**.
 
 ---
 
 ### 🚀 Selected Projects
 
 * **YALLA Mobile** (YouCLOUD) - Current lead project.
-* **Zenni Optical App** - AR features, $120M+ revenue. [cite: 30, 31]
-* **FIT Gaming** (FIT GROUP) - Unity-WebView integration. [cite: 20]
-* **Logistics Management App** (YES-TMS) - Real-time updates, ML document scanning. [cite: 12, 13]
-* **StiCat KMM App** - Telegram Contest 2nd Place. [cite: 36]
+* **Zenni Optical App** - AR features, $120M+ revenue.
+* **FIT Gaming** (FIT GROUP) - Unity-WebView integration.
+* **Logistics Management App** (YES-TMS) - Real-time updates, ML document scanning.
+* **StiCat KMM App** - Telegram Contest 2nd Place.
 * More on my [Portfolio](https://isheraliyev.framer.website) and listed on my resume.
 
 ---
 ### 🌐 Languages
-`Uzbek (Native)` `English (Proficient)` `Russian (Intermediate)` [cite: 44]
+`Uzbek (Native)` `English (Proficient)` `Russian (Intermediate)`
 
 ---
 
