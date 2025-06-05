@@ -23,18 +23,6 @@ I'm an experienced Kotlin Developer (3+ years) passionate about building impactf
 
 ---
 
-**Example Placeholder for Snake Game (You'll need to generate your own via GitHub Actions):**
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="github contribution grid snake animation - (This is a placeholder, replace with your own generated SVG)" />
-</p>
-
-**Example Placeholders for GitHub Stats (Replace `IslomSheraliyev` with your username if needed):**
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IslomSheraliyev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IslomSheraliyev&layout=compact&langs_count=8&theme=dracula"/>
-</p>
-
----
 
 ### 🛠️ My Tech Stack
 
